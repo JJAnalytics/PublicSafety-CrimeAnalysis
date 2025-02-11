@@ -21,21 +21,21 @@ This dataset includes comprehensive records of crimes reported across various re
 
 ## Cleaning & Transformation
 
-•	Created new Columns.
+-	Created new Columns.
 
-•	Renamed Columns.
+-	Renamed Columns.
 
-•	Correct data types.
+-	Correct data types.
 
-•	Removed Null values.
+-	Removed Null values.
 
-•	Removed columns.
+-	Removed columns.
 
-•	Split columns to differentiate date & time.
+-	Split columns to differentiate date & time.
 
-•	Created date & time formulas. 
+-	Created date & time formulas. 
 
-<a href="">Cleaning & Transformation Process
+<a href="https://github.com/JJAnalytics/PublicSafety-CrimeAnalysis/blob/main/Data%20Cleaning%20%26%20Transformation%20Process.png">Cleaning & Transformation Process
 
 ## Dashboard
 
