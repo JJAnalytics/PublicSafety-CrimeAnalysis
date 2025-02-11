@@ -44,14 +44,12 @@ This dataset includes comprehensive records of crimes reported across various re
 ## Insights & Recommendations
 
 -	The data shows that vehicle theft and battery (simple assault) are the most prevalent crimes.
-  Increase the presence of security cameras in high-risk areas and promote the use of vehicle anti-theft technology.
+
+ 	Increase the presence of security cameras in high-risk areas and promote the use of vehicle anti-theft technology.
 
  - Crime rates have steadily declined, with a significant drop in 2024.
+
    Continue to invest in crime prevention measures and community programs that have shown effectiveness, expanding them to reach more areas.
-
-
-
-
 
 ## Limitations & Potential Solutions
 
@@ -61,8 +59,8 @@ This dataset includes comprehensive records of crimes reported across various re
 
 -	While overall crime rates may drop, criminal activity could shift to different areas or crime types, leading to potential "displacement" rather than an actual reduction in crime.
 
-  Ensure that crime prevention efforts are broad and adaptable, addressing not only the types of crimes that are declining but also emerging trends or shifts in criminal behaviour. By regularly analysing crime data to identify emerging trends or shifts in criminal 
-  behaviour.
+  Ensure that crime prevention efforts are broad and adaptable, addressing not only the types of crimes that are declining but also emerging trends or shifts in criminal behaviour. 
+  By regularly analysing crime data to identify emerging trends or shifts in criminal behaviour.
 
 ## Summary
 
