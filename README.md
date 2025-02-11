@@ -17,4 +17,25 @@ This dataset includes comprehensive records of crimes reported across various re
   
 -	Is there a particular region or demographic more impacted by these crimes?
 
-<a href="">View Dashboard</a>
+<a href="https://github.com/JJAnalytics/PublicSafety-CrimeAnalysis/blob/main/Dashboard.png">View Dashboard</a>
+
+## Cleaning & Transformation
+
+•	Created new Columns.
+
+•	Renamed Columns.
+
+•	Correct data types.
+
+•	Removed Null values.
+
+•	Removed columns.
+
+•	Split columns to differentiate date & time.
+
+•	Created date & time formulas. 
+
+<a href="">Cleaning & Transformation Process
+
+## Dashboard
+
