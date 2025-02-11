@@ -59,8 +59,8 @@ This dataset includes comprehensive records of crimes reported across various re
 
 -	While overall crime rates may drop, criminal activity could shift to different areas or crime types, leading to potential "displacement" rather than an actual reduction in crime.
 
-   Ensure that crime prevention efforts are broad and adaptable, addressing not only the types of crimes that are declining but also emerging trends or shifts in criminal behaviour. 
-   By regularly analysing crime data to identify emerging trends or shifts in criminal behaviour.
+ 	Ensure that crime prevention efforts are broad and adaptable, addressing not only the types of crimes that are declining but also emerging trends or shifts in criminal behaviour. 
+  By regularly analysing crime data to identify emerging trends or shifts in criminal behaviour.
 
 ## Summary
 
